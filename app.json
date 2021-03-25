@@ -1,0 +1,44 @@
+{
+    "name": "evilbott",
+    "description": "An Open-source PyTgCalls based Pyrogram bot to play music in voice chats",
+    "logo": "https://telegra.ph/file/99afe853eb142eb6b5470.jpg",
+    "keywords": [
+      "telegram",
+      "voicechat",
+      "pytgcalls",
+      "productivity"
+    ],
+    "repository": "https://github.com/jattpawan/evilbot",
+    "stack": "container",
+    "env": {
+      "API_ID": {
+        "description": "Get this value from my.telegram.org!",
+        "value": ""
+      },
+      "API_HASH": {
+        "description": "Get this value from my.telegram.org! ",
+        "value": ""
+      },
+      "SESSION_NAME": {
+        "description": "Get this value from https://repl.it/@pawanjatt/evilmusicbot",
+        "value": ""
+      },
+      "BOT_TOKEN": {
+        "description": " Make a bot at http://telegram.dog/BotFather and get the token of your bot.",
+        "value": ""
+      },
+      "BOT_NAME": {
+        "description": " Add your bot name by default it is êvilẞø†.",
+        "value": "êvilẞø†"
+      },
+      "SUDO_USERS": {
+        "description": "List of ID of those who can pause, stop and clear queue,separated by space.",
+        "value": "1482443377"
+      },
+      "DURATION_LIMIT": {
+        "description": "Maximum duration of songs that users can request(in minutes).",
+        "value": "10",
+        "required": false
+      }
+    }
+}
