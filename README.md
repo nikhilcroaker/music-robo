@@ -1,8 +1,8 @@
 
-<h1 align="centre">🎶 Evil Music Bot 🎶</h1>
+<h1 align="centre">🎶 MʋsɩcRoɓo 🎶</h1>
 
 <p align="center">
-  <img src="./resources/extras/1615044144821.jpg" alt="Evilmusicbot">
+  <img src="https://img.freepik.com/free-vector/note-music-logo-design_93835-645.jpg?size=338&ext=jpg" alt="MʋsɩcRoɓo">
 </p>
 
 ## Requirements 📝
