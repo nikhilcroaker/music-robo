@@ -28,7 +28,7 @@ async def start(client: Client, message: Message):
                         "💚 SESSION 💚", url="https://replit.com/@nikhilcroaker/music-robo"
                     ),
                     InlineKeyboardButton(
-                        "💜 HEROKU 💜", url="https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Fjattpawan%2Fevilbot&template=https%3A%2F%2Fgithub.com%2Fjattpawan%2Fevilbot"
+                        "💜 HEROKU 💜", url="https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Fnikhilcroaker%2Fmusic-robo&template=https%3A%2F%2Fgithub.com%2Fnikhilcroaker%2Fmusic-robo"
                     )
                 ],
                 [
@@ -60,7 +60,7 @@ async def start_(client: Client, message: Message):
                         "💚 SESSION 💚", url="https://replit.com/@nikhilcroaker/music-robo"
                     ),
                     InlineKeyboardButton(
-                        "💜 HEROKU 💜", url="https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Fjattpawan%2Fevilbot&template=https%3A%2F%2Fgithub.com%2Fjattpawan%2Fevilbot"
+                        "💜 HEROKU 💜", url="https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Fnikhilcroaker%2Fmusic-robo&template=https%3A%2F%2Fgithub.com%2Fnikhilcroaker%2Fmusic-robo"
                     )
                 ],
                 [
