@@ -1,14 +1,14 @@
 {
-    "name": "evilbott",
+    "name": "musicrobo",
     "description": "An Open-source PyTgCalls based Pyrogram bot to play music in voice chats",
-    "logo": "https://telegra.ph/file/99afe853eb142eb6b5470.jpg",
+    "logo": "https://telegra.ph/file/e0d65dc92b3a8dbbed27c.jpg",
     "keywords": [
       "telegram",
       "voicechat",
       "pytgcalls",
       "productivity"
     ],
-    "repository": "https://github.com/jattpawan/evilbot",
+    "repository": "https://github.com/nikhilcroaker/music-robo",
     "stack": "container",
     "env": {
       "API_ID": {
@@ -20,7 +20,7 @@
         "value": ""
       },
       "SESSION_NAME": {
-        "description": "Get this value from https://repl.it/@pawanjatt/evilmusicbot",
+        "description": "Get this value from https://replit.com/@nikhilcroaker/music-robo",
         "value": ""
       },
       "BOT_TOKEN": {
