@@ -28,12 +28,12 @@
         "value": ""
       },
       "BOT_NAME": {
-        "description": " Add your bot name by default it is êvilẞø†.",
-        "value": "êvilẞø†"
+        "description": " Add your bot name by default it is musicrobo.",
+        "value": "musicrobo"
       },
       "SUDO_USERS": {
         "description": "List of ID of those who can pause, stop and clear queue,separated by space.",
-        "value": "1482443377"
+        "value": "1787293023"
       },
       "DURATION_LIMIT": {
         "description": "Maximum duration of songs that users can request(in minutes).",
